@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.d-max:spots-dialog:1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/322963ed98a7a6827d8266ba7d1fe500/jetified-spots-dialog-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/322963ed98a7a6827d8266ba7d1fe500/jetified-spots-dialog-1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/322963ed98a7a6827d8266ba7d1fe500/jetified-spots-dialog-1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fabebb3f0f803e0467afb9086e2cf84f/jetified-spots-dialog-1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fabebb3f0f803e0467afb9086e2cf84f/jetified-spots-dialog-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fabebb3f0f803e0467afb9086e2cf84f/jetified-spots-dialog-1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3020340373c8dc0b90e2cf75235af73/jetified-spots-dialog-1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3020340373c8dc0b90e2cf75235af73/jetified-spots-dialog-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3020340373c8dc0b90e2cf75235af73/jetified-spots-dialog-1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e15781134904bcafae6d4f6a1601bc2/jetified-spots-dialog-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e15781134904bcafae6d4f6a1601bc2/jetified-spots-dialog-1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e15781134904bcafae6d4f6a1601bc2/jetified-spots-dialog-1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.d-max/spots-dialog/1.1/476f06d8946834cb5fb74248bb14edca7b7fce0a/spots-dialog-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

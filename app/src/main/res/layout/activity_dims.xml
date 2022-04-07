@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.DimsActivity">
+
+    <include android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/_5sdp">
+
+        <TextView
+            android:id="@+id/medicine"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_weight="1"
+            android:text="Human"
+            android:gravity="center"
+            android:textSize="@dimen/_14sdp"
+            android:textColor="@color/white"
+            android:background="@color/dims_selected"/>
+
+        <TextView
+            android:id="@+id/herbal"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_weight="1"
+            android:text="Herbal"
+            android:gravity="center"
+            android:textSize="@dimen/_14sdp"
+            android:textColor="@color/white"
+            android:background="@color/cash_background"/>
+
+
+        <TextView
+            android:id="@+id/veternary"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_weight="1"
+            android:text="Veterinary"
+            android:gravity="center"
+            android:textSize="@dimen/_14sdp"
+            android:textColor="@color/white"
+            android:background="@color/cash_background"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_5sdp">
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/dims_rv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </androidx.recyclerview.widget.RecyclerView>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

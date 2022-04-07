@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_30sdp">
+
+    <TextView
+        android:id="@+id/med_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="@dimen/_13sdp"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/_5sdp"
+        android:fontFamily="sans-serif-condensed-medium"/>
+
+    <View
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="@color/grey"/>
+
+</LinearLayout>

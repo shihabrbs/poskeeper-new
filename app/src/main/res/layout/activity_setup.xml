@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F4F4"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/_10sdp"
+        android:background="@color/white">
+
+
+        <TextView
+            android:id="@+id/tv_languagee"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/language_border"
+            android:paddingLeft="8dp"
+            android:paddingTop="4dp"
+            android:paddingRight="8dp"
+            android:paddingBottom="4dp"
+            android:text="বাংলা" />
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/poskeeper_banner" />
+
+
+        <TextView
+            android:id="@+id/shoptextid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/logo"
+            android:layout_margin="16dp"
+            android:fontFamily="@font/montserrat"
+            android:justificationMode="inter_word"
+            android:text="POS Keeper is a powerful POS. Manage sales, inventory, engage customers, and increase your revenue. Whether you have single or multiple stores, our tools help run your business."
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/setupText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/shoptextid"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/montserrat"
+            android:text="App Activation"
+            android:textAllCaps="true"
+            android:textColor="#3f4655"
+            android:textSize="24dp" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/setupText">
+
+            <RelativeLayout
+                android:id="@+id/allrelative"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_20sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_20sdp"
+                android:layout_marginBottom="130dp">
+
+                <!-- <TextView
+                     android:id="@+id/text_email"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_marginTop="@dimen/_20sdp"
+                     android:text="@string/mobile"
+                     android:textColor="@color/text_color" />-->
+
+                <LinearLayout
+                    android:id="@+id/mobile_number_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <!--<ImageView
+                        android:layout_width="@dimen/_30sdp"
+                        android:layout_height="@dimen/_35sdp"
+                        android:background="@color/square_boarder_color"
+                        android:padding="@dimen/_5sdp"
+                        android:src="@drawable/ic_phone" />
+
+                    <EditText
+                        android:id="@+id/edit_setup_mobile"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_35sdp"
+                        android:background="@drawable/round_edittext"
+                        android:hint="Licence Key"
+                        android:inputType="number"
+                        android:paddingLeft="@dimen/_8sdp"
+                        android:textSize="@dimen/_11sdp" />-->
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/textusererror"
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:hint="Licence Number"
+                        android:outlineSpotShadowColor="@color/orenge"
+                        app:boxStrokeColor="@color/orenge"
+                        app:hintTextAppearance="@style/BlueTextInputLayout"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/Phoneid">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/edit_setup_mobile"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/shop"
+                            android:inputType="number"
+                            android:maxLines="1"
+                            android:text="01834223297"
+                            android:textColorHint="@color/blue" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+
+                </LinearLayout>
+
+
+                <!--<TextView
+                    android:id="@+id/text_password"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/mobile_number_layout"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:text="@string/uniquekey"
+                    android:textColor="@color/text_color" />-->
+
+                <RelativeLayout
+                    android:id="@+id/unique_key_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/mobile_number_layout"
+                    android:layout_marginTop="16dp"
+                    android:gravity="center_vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <!-- <ImageView
+                            android:layout_width="@dimen/_30sdp"
+                            android:layout_height="@dimen/_35sdp"
+                            android:background="@color/square_boarder_color"
+                            android:padding="@dimen/_5sdp"
+                            android:src="@drawable/ic_vpn_key" />
+
+
+                        <EditText
+                            android:id="@+id/edit_setup_unique_key"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_35sdp"
+                            android:background="@drawable/round_edittext"
+                            android:hint="@string/uniquekey"
+                            android:inputType="number"
+                            android:paddingLeft="@dimen/_8sdp"
+                            android:textSize="@dimen/_11sdp" />-->
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/activekeyerror"
+                            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                            android:layout_width="match_parent"
+                            android:layout_height="60dp"
+                            android:hint=" Active Key"
+                            android:outlineSpotShadowColor="@color/orenge"
+                            app:boxStrokeColor="@color/orenge"
+                            app:hintTextAppearance="@style/BlueTextInputLayout"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@+id/Phoneid">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/edit_setup_unique_key"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:drawableLeft="@drawable/ic_vpn_key"
+                                android:inputType="number"
+                                android:maxLines="1"
+                                android:text="1626501814"
+                                android:textColorHint="@color/blue" />
+
+                        </com.google.android.material.textfield.TextInputLayout>
+
+
+                    </LinearLayout>
+
+
+                    <CheckBox
+                        android:id="@+id/checkBoxPassword"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="10dp"
+                        android:button="@drawable/checkbox_eye"
+                        android:visibility="gone" />
+
+
+                </RelativeLayout>
+
+
+                <!--<TextView-->
+                <!--android:id="@+id/device_text"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:textColor="@color/text_color"-->
+                <!--android:layout_below="@id/unique_key_layout"-->
+                <!--android:layout_marginTop="@dimen/_15sdp"-->
+                <!--android:text="@string/device_id_text" />-->
+
+                <!--<LinearLayout-->
+                <!--android:id="@+id/device_id_layout"-->
+                <!--android:layout_below="@id/device_text"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:layout_marginTop="@dimen/_8sdp">-->
+
+                <!--<ImageView-->
+                <!--android:layout_width="@dimen/_30sdp"-->
+                <!--android:layout_height="@dimen/_35sdp"-->
+                <!--android:src="@drawable/ic_phone_android"-->
+                <!--android:padding="@dimen/_5sdp"-->
+                <!--android:background="@color/square_boarder_color"/>-->
+
+                <!--<EditText-->
+                <!--android:id="@+id/edit_setup_device_id"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="@dimen/_35sdp"-->
+                <!--android:paddingLeft="@dimen/_8sdp"-->
+                <!--android:textSize="@dimen/_11sdp"-->
+                <!--android:hint="@string/device_id_text"-->
+                <!--android:background="@drawable/round_edittext"-->
+                <!--android:inputType="number" />-->
+
+                <!--</LinearLayout>-->
+
+                <Button
+                    android:id="@+id/button_setup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/unique_key_layout"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="16dp"
+                    android:background="@drawable/signup_round_btn_orenge"
+                    android:gravity="center"
+                    android:padding="@dimen/_10sdp"
+                    android:text="Activate"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_14sdp" />
+
+                <TextView
+                    android:id="@+id/button_logintext"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/button_setup"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/montserrat"
+                    android:text="Don't Have Activation Code?"
+                    android:textAlignment="center"
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:id="@+id/createnewbusiness"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/button_logintext"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="10dp"
+                    android:fontFamily="@font/montserrat"
+                    android:text="Create New Shop"
+                    android:textAlignment="center"
+                    android:textColor="@color/blueTransparent"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</androidx.core.widget.NestedScrollView>

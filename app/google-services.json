@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703847956804",
+    "project_id": "terminalbds",
+    "storage_bucket": "terminalbds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703847956804:android:99cda147233281dd4d5711",
+        "android_client_info": {
+          "package_name": "com.portal.terminalbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703847956804-qs3rcsc280jncd2pv4h8p0sjj8k8rm4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqICPv3LdozbzSSa4VQLwPInZAxGcNw8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703847956804-qs3rcsc280jncd2pv4h8p0sjj8k8rm4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.PurchasePaymentActivity">
+
+    <include android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_vertical">
+
+            <!--<RelativeLayout-->
+                <!--android:id="@+id/showSaleItem"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="@dimen/_40sdp">-->
+
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:orientation="horizontal"-->
+                    <!--android:layout_centerVertical="true"-->
+                    <!--android:layout_marginLeft="@dimen/_5sdp"-->
+                    <!--android:layout_marginRight="@dimen/_5sdp"-->
+                    <!--android:layout_gravity="center_horizontal"-->
+                    <!--android:gravity="center_vertical">-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:src="@drawable/ic_format_list"/>-->
+
+                    <!--<Button-->
+                        <!--android:id="@+id/add_discount"-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="Show All Sale Items"-->
+                        <!--android:layout_marginLeft="@dimen/_5sdp"-->
+                        <!--android:textColor="@color/red"-->
+                        <!--android:textAllCaps="false"-->
+                        <!--android:background="@android:color/transparent"-->
+                        <!--android:layout_gravity="center_vertical|end"/>-->
+
+                <!--</LinearLayout>-->
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/arrow_icon"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentRight="true"-->
+                    <!--android:layout_centerVertical="true"-->
+                    <!--android:src="@drawable/ic_arrow_down"/>-->
+
+
+            <!--</RelativeLayout>-->
+
+            <RelativeLayout
+                android:id="@+id/showSaleItem"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_40sdp"
+                android:background="@color/nav_top_bg">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:layout_marginRight="@dimen/_5sdp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_vertical">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_format_list"
+                        android:tint="@color/white"/>
+
+                    <Button
+                        android:id="@+id/add_discount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Show All Purchase Items"
+                        android:layout_marginLeft="@dimen/_5sdp"
+                        android:textColor="@color/white"
+                        android:textAllCaps="false"
+                        android:background="@android:color/transparent"
+                        android:layout_gravity="center_vertical|end"/>
+
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/arrow_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_arrow_down"/>
+
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/saleItemsLayout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_300sdp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:background="@color/colorPrimary">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight="1.3"
+                        android:layout_height="@dimen/_30sdp"
+                        android:text="Name"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:textSize="@dimen/_11sdp"
+                        android:textColor="@color/white"
+                        android:gravity="center_vertical"/>
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight=".5"
+                        android:layout_height="@dimen/_30sdp"
+                        android:text="Price"
+                        android:textSize="@dimen/_11sdp"
+                        android:textColor="@color/white"
+                        android:gravity="center_vertical|center_horizontal"/>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight="2"
+                        android:layout_height="@dimen/_30sdp"
+                        android:text="Quantity"
+                        android:textSize="@dimen/_11sdp"
+                        android:gravity="center"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight=".8"
+                        android:layout_height="@dimen/_30sdp"
+                        android:text="Sub-total"
+                        android:textSize="@dimen/_11sdp"
+                        android:textColor="@color/white"
+                        android:gravity="center_vertical|center_horizontal"/>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight=".5"
+                        android:layout_height="@dimen/_30sdp"
+                        android:textSize="@dimen/_11sdp"
+                        android:textColor="@color/white"
+                        android:gravity="center_vertical|end"/>
+
+
+
+                </LinearLayout>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/purchase_history_rv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_50sdp">
+
+
+                </androidx.recyclerview.widget.RecyclerView>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_5sdp">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="Total TK"
+                    android:textColor="@color/dark_grey"
+                    android:textStyle="bold"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_14sdp"
+                    android:gravity="center_vertical"/>
+
+
+                <TextView
+                    android:id="@+id/sale_total_tk"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="0"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/_15sdp"
+                    android:gravity="center_vertical|end"/>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:background="@color/dark_grey"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="Discount TK"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold"
+                    android:textColor="@color/dark_grey"
+                    android:gravity="center_vertical"/>
+
+                <TextView
+                    android:id="@+id/sale_discount_tk"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="0"
+                    android:textStyle="bold"
+                    android:textColor="@color/dark_grey"
+                    android:textSize="@dimen/_15sdp"
+                    android:gravity="center_vertical|end"/>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:background="@color/dark_grey"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="Grand Total TK"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_14sdp"
+                    android:textColor="@color/dark_grey"
+                    android:textStyle="bold"
+                    android:gravity="center_vertical"/>
+
+                <TextView
+                    android:id="@+id/sale_grand_total_tk"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="0"
+                    android:textStyle="bold"
+                    android:textColor="@color/dark_grey"
+                    android:textSize="@dimen/_14sdp"
+                    android:gravity="center_vertical|end"/>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:background="@color/dark_grey"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1.2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="Commission Mode"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_12sdp"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"/>
+
+                <Spinner
+                    android:id="@+id/commision_mode_spinner"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.8"
+                    android:layout_height="@dimen/_30sdp"
+                    android:background="@drawable/spinner_border">
+
+                </Spinner>
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/discount_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginLeft="@dimen/_5sdp">
+
+
+                <com.portal.terminalbd.utils.PrefixEditText
+                    android:id="@+id/discount_et"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_11sdp"
+                    android:gravity="center_vertical"
+                    android:tag="৳ "
+                    android:hint="Enter Discount Amount Or Percent"
+                    android:inputType="number"
+                    android:background="@drawable/edit_text_round_corner_border"/>
+
+                <Switch
+                    android:id="@+id/discount_switch"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_30sdp"
+                    android:gravity="center"
+                    android:checked="false"
+                    android:textOff="৳"
+                    android:textOn="%"
+                    android:text="Tk"
+                    android:paddingRight="@dimen/_5sdp"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textColor="@color/white"
+                    android:background="@color/discount_bg"/>
+
+
+            </LinearLayout>
+
+            <Spinner
+                android:id="@+id/vendor_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_margin="@dimen/_5sdp"
+                android:background="@drawable/spinner_border">
+
+
+            </Spinner>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:layout_marginLeft="@dimen/_5sdp">
+
+                <LinearLayout
+                    android:id="@+id/choose_date"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.5"
+                    android:layout_height="35dp"
+                    android:background="@drawable/edit_text_round_corner_border"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:layout_marginRight="@dimen/_5sdp">
+
+                    <Button
+                        android:id="@+id/calPicker1"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@drawable/calendar" />
+
+
+                    <TextView
+                        android:id="@+id/date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="mm/dd/yyyy" />
+
+                </LinearLayout>
+
+                <EditText
+                    android:id="@+id/memo_no_et"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.5"
+                    android:layout_height="@dimen/_30sdp"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_11sdp"
+                    android:gravity="center_vertical"
+                    android:tag="৳ "
+                    android:hint="Memo no"
+                    android:inputType="number"
+                    android:background="@drawable/edit_text_round_corner_border"/>
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_margin="@dimen/_5sdp">
+
+                <TextView
+                    android:id="@+id/cashPayment"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_weight="1"
+                    android:text="CASH"
+                    android:gravity="center"
+                    android:textStyle="bold|italic"
+                    android:textSize="@dimen/_14sdp"
+                    android:textColor="@color/white"
+                    android:background="@color/cash_background"
+                    android:layout_marginRight="@dimen/_5sdp"/>
+
+                <TextView
+                    android:id="@+id/bkashPayment"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_weight="1"
+                    android:text="MOBILE"
+                    android:gravity="center"
+                    android:textStyle="bold|italic"
+                    android:textSize="@dimen/_14sdp"
+                    android:textColor="@color/white"
+                    android:background="@color/bkash_background"
+                    android:layout_marginRight="@dimen/_5sdp"/>
+
+                <TextView
+                    android:id="@+id/visaPayment"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_weight="1"
+                    android:text="BANK"
+                    android:gravity="center"
+                    android:textStyle="bold|italic"
+                    android:textSize="@dimen/_14sdp"
+                    android:textColor="@color/white"
+                    android:background="@color/rocket_background"
+                    android:layout_marginRight="@dimen/_5sdp"/>
+
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/bkashPayment"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="@dimen/_35sdp"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:src="@drawable/bkash"-->
+                    <!--android:background="@color/bkash_background"-->
+                    <!--android:padding="@dimen/_5sdp"-->
+                    <!--android:layout_marginRight="@dimen/_5sdp"/>-->
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/rocketPayment"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="@dimen/_35sdp"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:padding="@dimen/_5sdp"-->
+                    <!--android:src="@drawable/rocket"-->
+                    <!--android:background="@color/rocket_background"-->
+                    <!--android:layout_marginRight="@dimen/_5sdp"/>-->
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/visaPayment"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="@dimen/_35sdp"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:padding="@dimen/_5sdp"-->
+                    <!--android:src="@drawable/image"-->
+                    <!--android:background="@color/visa_background"/>-->
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/mobile_payment_form"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="@dimen/_5sdp"
+                android:visibility="gone">
+
+                <Spinner
+                    android:id="@+id/payment_receive_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:background="@drawable/spinner_border">
+
+
+                </Spinner>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/bank_payment_form"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="@dimen/_5sdp"
+                android:visibility="gone">
+
+                <Spinner
+                    android:id="@+id/payment_card_bank_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:background="@drawable/spinner_border">
+
+
+                </Spinner>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp">
+
+
+                <TextView
+                    android:id="@+id/returnText"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="Due TK"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold"
+                    android:gravity="center_vertical"/>
+
+                <TextView
+                    android:id="@+id/sale_return_tk"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="0"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:textSize="@dimen/_14sdp"
+                    android:gravity="center_vertical|end"/>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:background="@color/dark_grey"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@color/receive_tk_bg"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:text="Payment TK"
+                    android:textColor="@color/white"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_17sdp"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"/>
+
+
+                <com.portal.terminalbd.utils.PrefixEditText
+                    android:id="@+id/receivedTk"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="@dimen/_30sdp"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:textSize="@dimen/_15sdp"
+                    android:gravity="center_vertical"
+                    android:tag="৳ "
+                    android:inputType="number"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:layout_marginRight="@dimen/_5sdp"
+                    android:background="@drawable/round_corner_edit_text_white"/>
+
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/remark_et"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_60sdp"
+                android:paddingLeft="@dimen/_5sdp"
+                android:textSize="@dimen/_11sdp"
+                android:gravity="center_vertical"
+                android:hint="Remark"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@drawable/edit_text_round_corner_border"/>
+
+
+
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp">
+
+                <Button
+                    android:id="@+id/save_btn"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Save"
+                    android:drawableLeft="@drawable/ic_save"
+                    android:padding="@dimen/_10sdp"
+                    android:textColor="@color/white"
+                    android:background="@color/save_btn_color"
+                    android:layout_gravity="center_vertical"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</RelativeLayout>

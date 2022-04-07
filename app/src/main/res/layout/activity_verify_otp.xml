@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".activity.VerifyOTPActivity">
+
+<!--
+
+    <TextView
+        android:id="@+id/tt_verify_number"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/grey_70"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="+8801761632579"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/sign_up_verify_code"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+
+    <TextView
+
+        android:id="@+id/sign_up_verify_code"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/grey_70"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Generating OTP ..."
+
+        android:paddingLeft="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/progressBar_verify"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <TextView
+
+
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="NOTE : Number will verify automatically , just wait few seconds"
+        android:textColor="@color/blue"
+        app:layout_constraintBottom_toTopOf="@+id/tt_verify_number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.85" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/signup_round_btn_orenge"
+        android:onClick="nextpage"
+        android:padding="10dp"
+        android:text="GET OTP"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sign_up_verify_code" />
+
+    <ProgressBar
+
+
+        android:id="@+id/progressBar_verify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.52" />
+-->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter the code we sent to your phone"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/_13sdp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_20sdp"/>
+
+    <EditText
+        android:id="@+id/edtOtp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="OTP Code"
+        android:inputType="number"
+        android:gravity="center_horizontal"
+        android:textSize="@dimen/_13sdp"/>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_20sdp"/>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/registerCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="@dimen/_10sdp"
+        app:cardBackgroundColor="@color/grey_70"
+        app:cardElevation="@dimen/_5sdp">
+
+        <Button
+            android:id="@+id/verifyBtn"
+            android:layout_width="@dimen/_130sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:background="@android:color/transparent"
+            android:enabled="false"
+            android:textColor="@color/grey_20"
+            android:textSize="@dimen/_14sdp"
+            android:textAllCaps="false"
+            android:text="Verify"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_10sdp"/>
+
+    <Button
+        android:id="@+id/resendBtn"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:background="@android:color/transparent"
+        android:textColor="@color/button_color"
+        android:textSize="@dimen/_15sdp"
+        android:textAllCaps="false"
+        android:text="Resend"/>
+
+
+</LinearLayout>

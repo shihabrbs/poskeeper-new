@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:elevation="4dp"
+    android:background="@color/colorPrimaryDark"
+    app:titleTextColor="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:text="payment"
+            android:textSize="@dimen/_15sdp"
+            android:layout_centerVertical="true"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/print_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Off"
+            android:textStyle="bold"
+            android:textSize="@dimen/_14sdp"
+            android:textColor="@color/grey"
+            android:gravity="center"
+            android:tag="-1"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/_10sdp"/>
+
+    </RelativeLayout>
+
+</androidx.appcompat.widget.Toolbar>

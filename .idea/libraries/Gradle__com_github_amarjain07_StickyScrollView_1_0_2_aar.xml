@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.amarjain07:StickyScrollView:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52874a4a38f3e4bf79ba5d7a84b099f6/jetified-StickyScrollView-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52874a4a38f3e4bf79ba5d7a84b099f6/jetified-StickyScrollView-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52874a4a38f3e4bf79ba5d7a84b099f6/jetified-StickyScrollView-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a7894be26ad30b9264b1a9be4919f4d/jetified-StickyScrollView-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a7894be26ad30b9264b1a9be4919f4d/jetified-StickyScrollView-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a7894be26ad30b9264b1a9be4919f4d/jetified-StickyScrollView-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37a62cff76e56959408a5a4a5e7bbcab/jetified-StickyScrollView-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37a62cff76e56959408a5a4a5e7bbcab/jetified-StickyScrollView-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37a62cff76e56959408a5a4a5e7bbcab/jetified-StickyScrollView-1.0.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6467b99ea8501f5e71b3f3d86389f38/jetified-StickyScrollView-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6467b99ea8501f5e71b3f3d86389f38/jetified-StickyScrollView-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6467b99ea8501f5e71b3f3d86389f38/jetified-StickyScrollView-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.amarjain07/StickyScrollView/1.0.2/df2fed3248615a559ad49d8055fe0ff0fd5006a4/StickyScrollView-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="drawerArrowStyle">@style/DrawerIcon</item>
+
+        <item name="actionOverflowButtonStyle">@style/IconOverflow</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="DrawerIcon" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/white</item>
+    </style>
+
+    <style name="MyCheckBox" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorControlNormal">@color/colorPrimary</item>   <!-- normal border color change as you wish -->
+        <item name="colorControlActivated">@color/colorAccent</item> <!-- activated color change as you wish -->
+        <item name="android:textColor">#FFFF3F3C</item> <!-- checkbox text color -->
+    </style>
+
+    <style name="SwitchTextAppearance" parent="@android:style/TextAppearance.Holo.Small">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+    <style name="BlueTextInputLayout" parent="@style/TextAppearance.AppCompat">
+     <!--  <item name="android:textColor">#3f4655</item>-->
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+<!--
+    <style name="BlueTextInputLayout" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textColor">#f39c26</item>
+    </style>-->
+
+
+
+    <style name="IconOverflow" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:tint">@color/white</item>
+    </style>
+
+</resources>

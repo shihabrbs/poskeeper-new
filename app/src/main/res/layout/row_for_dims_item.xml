@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:padding="@dimen/_10sdp"
+        android:src="@drawable/medicine_tab_icon"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/_10sdp">
+
+
+        <TextView
+            android:id="@+id/dims_medicine_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Napa"
+            android:maxLines="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_15sdp"/>
+
+        <TextView
+            android:id="@+id/dims_medicine_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tablet"
+            android:maxLines="1"
+            android:textSize="@dimen/_11sdp"
+            android:textColor="@color/medicine_form_color"/>
+
+        <TextView
+            android:id="@+id/dims_medicine_generic_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sodium Cloride"
+            android:maxLines="1"
+            android:textSize="@dimen/_13sdp"/>
+
+        <TextView
+            android:id="@+id/dims_medicine_brand_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Reneta"
+            android:maxLines="1"
+            android:textSize="@dimen/_12sdp"
+            android:textColor="@color/dims_brand_name"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

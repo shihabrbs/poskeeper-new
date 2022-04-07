@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_settings">Settings</string>
+    <string name="adapter_usbdevice">USB Device:</string>
+    <string name="add_customer">এড কাস্টমার</string>
+    <string name="app_name" translatable="false">Terminalbd</string>
+    <string name="choose_usb_device">Choose USB Device</string>
+    <string name="device_id_text" translatable="false">Device Id</string>
+    <string name="dialog_back">Back</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_tip">Tip</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="main_pls_choose_device">Please choose a device</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"দিন দিয়ে সংগঠিত মাসের গ্রিড"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> মুছে ফেলা হয়েছে"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"সম্পন্ন হয়েছে"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"বৃত্তাকার ঘন্টা নির্বাচকের স্লাইডার"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> নির্বাচন করা হয়েছে"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"বৃত্তাকার মিনিট নির্বাচকের স্লাইডার"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"মাস এবং দিন নির্বাচন করুন"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"ঘন্টা নির্বাচন করুন"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"মিনিট নির্বাচন করুন"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"বছর নির্বাচন করুন"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"বছরের তালিকা"</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">ড্যাশবোর্ড</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="mobile" translatable="false">Mobile</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="setup" translatable="false">Setup</string>
+    <string name="stocktitle">মজুদ</string>
+    <string name="string_Mobile">মোবাইল</string>
+    <string name="string_Mobile_hint">মোবাইল নাম্বার লিখুন</string>
+    <string name="string_PPmust">ক্রয় মূল্য</string>
+    <string name="string_addcustomer">গ্রাহক যুক্ত করুন</string>
+    <string name="string_address">ঠিকানা</string>
+    <string name="string_address_hint">ঠিকানা লিখুন</string>
+    <string name="string_addstockitem">এড স্টক আইটেম</string>
+    <string name="string_amount">টাকা</string>
+    <string name="string_balance">ব্যালেন্স</string>
+    <string name="string_bank">ব্যাংক</string>
+    <string name="string_brandname">ব্র্যান্ড নাম</string>
+    <string name="string_btnback">ব্যাক</string>
+    <string name="string_cash">নগদ</string>
+    <string name="string_company_full_name">কোম্পানির পুরো নাম লিখুন</string>
+    <string name="string_company_name">কোম্পানির নাম</string>
+    <string name="string_createVendor">ক্রিয়েট ভেন্ডর</string>
+    <string name="string_createcustomer">ক্রিয়েট কাস্টমার</string>
+    <string name="string_createstocktitle">নতুন মজুদ</string>
+    <string name="string_currencys">0 taka</string>
+    <string name="string_customer_email">ইমেইল</string>
+    <string name="string_customer_full_name">কাস্টমারের পুরো নাম লিখুন</string>
+    <string name="string_customer_name">কাস্টমারের নাম</string>
+    <string name="string_dashboard">ড্যাশবোর্ড</string>
+    <string name="string_description">বর্ননা </string>
+    <string name="string_discount">কমিশন</string>
+    <string name="string_due">বকেয়া</string>
+    <string name="string_enterproductfulldes">আইটেমের পূর্ণ  বিবরণ</string>
+    <string name="string_enterthepp">ক্রয় মূল্য</string>
+    <string name="string_entertheproductbrandname">আইটেম ব্র্যান্ড নাম</string>
+    <string name="string_entertheproductmqty">সর্বনিম্ন পরিমাণ</string>
+    <string name="string_entertheproductmrp">পণ্যের খুচরা মূল্য লিখুন</string>
+    <string name="string_entertheproductoqty">ওপেনিং  পরিমাণ</string>
+    <string name="string_expense">খরচ</string>
+    <string name="string_flat">ফ্ল্যাট</string>
+    <string name="string_fullproductname">পণ্যের পুরো নাম লিখুন</string>
+    <string name="string_item_name">আইটেম নাম*</string>
+    <string name="string_medicine">ঔষধ</string>
+    <string name="string_minimum">ন্যূনতম</string>
+    <string name="string_mobile">মোবাইল</string>
+    <string name="string_mrp">মূল্য</string>
+    <string name="string_mrpmust">খুচরা মূল্য*</string>
+    <string name="string_name">পণ্যের নাম</string>
+    <string name="string_opening">শুরুর</string>
+    <string name="string_opening_balance">ওপেনিং ব্যালেন্স</string>
+    <string name="string_opening_balance_hint">ওপেনিং ব্যালেন্স লিখুন</string>
+    <string name="string_payment">পরিশোধ</string>
+    <string name="string_percent">শতকরা</string>
+    <string name="string_pitemsearch">\u0020\u0020পন্য খুঁজুন</string>
+    <string name="string_pp">ক্রয় মূল্য</string>
+    <string name="string_ppurchase">পূর্বের ক্রয়</string>
+    <string name="string_previousdue">পূর্বের বকেয়া</string>
+    <string name="string_print">প্রিন্ট</string>
+    <string name="string_printmessage">প্রিন্ট ম্যাসেজ</string>
+    <string name="string_profit">লাভ</string>
+    <string name="string_profite">লাভ</string>
+    <string name="string_purchase">ক্রয়</string>
+    <string name="string_qty">পরিমাণ</string>
+    <string name="string_return">রিটার্ন</string>
+    <string name="string_sales">বিক্রয়</string>
+    <string name="string_salesitemsearch">\u0020\u0020সেলস আইটেম খুঁজুন</string>
+    <string name="string_save"> সেভ</string>
+    <string name="string_sd">এসডি</string>
+    <string name="string_search">\u0020\u0020খুঁজুন</string>
+    <string name="string_selectacat">ক্যাটাগরি </string>
+    <string name="string_selectaunit">সিলেক্ট ইউনিট</string>
+    <string name="string_selectproductcat">আইটেম ক্যাটাগরি</string>
+    <string name="string_selectproductunit">সিলেক্ট ইউনিট</string>
+    <string name="string_subtotal">সর্বমোট</string>
+    <string name="string_total">মোট</string>
+    <string name="string_unit">ইউনিট</string>
+    <string name="string_update">\u0020আপডেট</string>
+    <string name="string_updatestockitem">স্টক আইটেম আপডেট</string>
+    <string name="string_vat">ভ্যাট</string>
+    <string name="sync_status">হালনাগাদ</string>
+    <string name="tip_insert_usb_device">Pls insert USB device</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="uniquekey" translatable="false">Unique Key</string>
+    <string name="username" translatable="false">Username</string>
+</resources>

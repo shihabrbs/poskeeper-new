@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ic_addicons"
+        android:icon="@drawable/ic_add"
+        android:title="@string/string_addstockitem"/>
+
+    <item android:id="@+id/ic_syncicons"
+        android:icon="@drawable/ic_sync_white"
+        android:title="@string/sync_status"/>
+
+
+</menu>

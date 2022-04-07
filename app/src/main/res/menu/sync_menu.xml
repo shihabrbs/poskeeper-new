@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/sync_status"
+        android:icon="@drawable/ic_cart"
+        android:title="@string/sync_status"
+        app:showAsAction="always"/>
+
+
+    <item
+        android:id="@+id/add_vendor"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add_vendor"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/add_customer"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add_customer"
+        app:showAsAction="collapseActionView"/>
+
+
+    <item
+        android:id="@+id/new_sync"
+        android:icon="@drawable/ic_add"
+        android:title="customer sync"
+        app:showAsAction="collapseActionView"/>
+
+    <!--<item-->
+        <!--android:id="@+id/sync_help"-->
+        <!--android:icon="@drawable/ic_help"-->
+        <!--android:title="@string/sync_status"-->
+        <!--app:showAsAction="always"/>-->
+
+</menu>

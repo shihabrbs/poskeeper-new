@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name" translatable="false">PosKeeper</string>
+    <!--<string name="app_name" translatable="false">Restaurant</string>-->
+    <string name="mobile" translatable="false">Licence Key</string>
+    <string name="uniquekey" translatable="false">Active Key</string>
+    <string name="setup" translatable="false">Setup</string>
+    <string name="username" translatable="false"> Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="device_id_text" translatable="false">Device Id</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="stocktitle">Stock</string>
+    <string name="string_mrp">MRP</string>
+    <string name="string_unit">Unit</string>
+    <string name="string_pp">Purchase</string>
+    <string name="string_name">Name</string>
+    <string name="string_qty">QTY</string>
+    <string name="string_total">Total</string>
+
+
+    <string name="string_purchase">Purchase</string>
+    <string name="string_ppurchase">Pre Purchase</string>
+    <string name="string_pitemsearch">\u0020\u0020Purchase Item Search</string>
+
+    <string name="string_cash">Cash</string>
+    <string name="string_mobile">Mobile</string>
+    <string name="string_bank">Bank</string>
+
+    <string name="string_payment">Payment</string>
+    <string name="string_due">Due</string>
+    <string name="string_search">\u0020\u0020Search</string>
+
+    <string name="string_addcustomer">Add Customer</string>
+    <string name="string_addstockitem">Add Stock Item</string>
+    <string name="string_sales">Sales</string>
+    <string name="string_percent">Percent</string>
+    <string name="string_subtotal">SubTotal</string>
+    <string name="string_medicine">Medicine</string>
+    <string name="string_expense">Expense</string>
+    <string name="string_balance">Balance</string>
+    <string name="string_previousdue">Previous Due</string>
+    <string name="string_vat">Vat</string>
+    <string name="string_sd">SD</string>
+    <string name="string_discount">Discount</string>
+    <string name="string_profit">Profit</string>
+    <string name="string_flat">Flat</string>
+    <string name="string_amount">Amount</string>
+    <string name="string_print">Print</string>
+    <string name="string_profite">Profite</string>
+    <string name="string_return">Return</string>
+    <string name="string_printmessage">Print Message</string>
+    <string name="string_currencys">0 BDT</string>
+    <string name="string_dashboard">Dashboard</string>
+
+
+    <string name="string_salesitemsearch">\u0020\u0020Sales Item Search</string>
+
+    <string name="string_createstocktitle">Create Stock Item</string>
+    <string name="string_createcustomer">Create Customer</string>
+    <string name="string_createVendor">Create Vendor</string>
+    <string name="string_customer_name">Customer Name</string>
+    <string name="string_company_name">Company Name</string>
+    <string name="string_customer_email">Email</string>
+    <string name="string_customer_full_name">Enter Customer Full Name</string>
+    <string name="string_company_full_name">Enter Company Full Name</string>
+    <string name="string_address">Address</string>
+    <string name="string_address_hint">Enter the address</string>
+    <string name="string_email_hint">Enter the Email Address</string>
+    <string name="string_Mobile">Mobile</string>
+    <string name="string_Mobile_hint">Enter the Mobile Number</string>
+    <string name="string_opening_balance">Opening Balance</string>
+    <string name="string_opening_balance_hint">Enter the Opening Balance</string>
+    <string name="string_item_name">Item Name*</string>
+    <string name="string_category_name">Category Name*</string>
+    <string name="string_brand_name">Brand Name*</string>
+    <string name="string_add_category">Add Category</string>
+    <string name="string_add_brand">Add Brand</string>
+    <string name="string_fullproductname">Ente the product full name</string>
+    <string name="string_selectproductcat">Select product category</string>
+    <string name="string_mrpmust">MRP*</string>
+    <string name="string_PPmust">PP</string>
+    <string name="string_entertheproductmrp">Ente the product MRP</string>
+    <string name="string_enterthepp">Ente the Purchase Price</string>
+    <string name="string_brandname">Brand Name</string>
+    <string name="string_entertheproductbrandname">Ente the product brand name</string>
+    <string name="string_minimum">Minimum</string>
+    <string name="string_opening">Opening</string>
+    <string name="string_entertheproductmqty">Ente the product Minimum Quantity</string>
+    <string name="string_entertheproductoqty">Ente the product Opening Quantity</string>
+    <string name="string_selectproductunit">Select product unit</string>
+    <string name="string_description">Description</string>
+    <string name="string_enterproductfulldes">Ente the product full Description</string>
+    <string name="string_btnback">Back</string>
+    <string name="string_save">\u0020\u0020Save</string>
+    <string name="string_selectacat">Select a Category</string>
+    <string name="string_selectaunit">Select a Unit</string>
+    <string name="string_updatestockitem">Update Stock Item</string>
+    <string name="string_new_product">Add New Product</string>
+    <string name="string_stockitemdetails">Stock Item Details</string>
+    <string name="string_update">\u0020\u0020Update</string>
+    <string name="string_add_product">\u0020\u0020Add Product</string>
+    <string name="string_cart">\u0020\u0020Add to Cart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="printer_status">Status</string>
+    <string name="sync_status">sync</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="add_vendor">Add Vendor</string>
+    <string name="string_language">English</string>
+
+    <string-array name="commision_mode">
+        <item>Vendor</item>
+        <item>Manual</item>
+    </string-array>
+
+    <string-array name="vendor_list">
+        <item>Choose Vendor</item>
+        <item>Beximco Pharma</item>
+        <item>Pharaji Pharma</item>
+        <item>Opsonin</item>
+    </string-array>
+
+    <string-array name="payment_list">
+        <item>Cash</item>
+        <item>Bank</item>
+        <item>Mobile</item>
+    </string-array>
+
+    <!--Usb printer strings-->
+    <string name="tip_insert_usb_device">Pls insert USB device</string>
+
+    <string name="adapter_usbdevice">USB Device:</string>
+    <string name="choose_usb_device">Choose USB Device</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_tip">Tip</string>
+    <string name="main_pls_choose_device">Please choose a device</string>
+    <string name="dialog_back">Back</string>
+    <string name="main_connected">Connection Successfull</string>
+    <string name="main_disconnect">Disconnected</string>
+    <string name="please_connect">Conenct usb printer</string>
+    <string name="text_go">Go</string>
+    <string name="text_phone">Mobile</string>
+    <string name="text_login">Sign in</string>
+    <string name="text_valid_mobile">Enter your valid mobile number</string>
+    <string name="text_shop_name">TerminalBd Ecommerce</string>
+    <string name="text_otp_long">Enter the code we sent to your phone</string>
+    <string name="text_otp_verify">Verify</string>
+    <string name="text_otp_resend">"Resend OTP in"</string>
+    <string name="text_otp_secound">"s"</string>
+
+    <string-array name="planets_array">
+        <item>  Shop Type</item>
+        <item>  Pharmacy</item>
+        <item>  E-commarce</item>
+        <item>  Restaurant</item>
+
+    </string-array>
+
+
+    <string-array name="category_array">
+        <item>  Select Category</item>
+        <item>  Man</item>
+        <item>  Woman</item>
+        <item>  Baby</item>
+        <item>  Kitchen</item>
+        <item>  Electronics</item>
+
+    </string-array>
+
+</resources>

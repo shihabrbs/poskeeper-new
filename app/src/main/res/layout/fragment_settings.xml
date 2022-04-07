@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.SettingsFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/grey"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/export_sync"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/nav_top_bg"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Sync For Data Export"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_13sdp" />
+
+                <ImageView
+                    android:id="@+id/export_arrow_icon"
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:background="@color/discount_bg"
+                    android:padding="@dimen/_5sdp"
+                    android:src="@drawable/ic_arrow_down" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/export_sync_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Sales" />
+
+                    <ImageView
+                        android:id="@+id/sync_sales"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Purchase" />
+
+                    <ImageView
+                        android:id="@+id/sync_purchase"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Expense" />
+
+                    <ImageView
+                        android:id="@+id/sync_expense"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:background="@color/grey"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/manual_sync"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/nav_top_bg"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Sync For Data Import"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_13sdp" />
+
+                <ImageView
+                    android:id="@+id/import_arrow_icon"
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:background="@color/discount_bg"
+                    android:padding="@dimen/_5sdp"
+                    android:src="@drawable/ic_arrow_down" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/manual_sync_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Stock Items" />
+
+                    <ImageView
+                        android:id="@+id/sync_stock"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="System Users" />
+
+                    <ImageView
+                        android:id="@+id/sync_system_users"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Product Category" />
+
+                    <ImageView
+                        android:id="@+id/sync_product_category"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Anonymous Customer" />
+
+                    <ImageView
+                        android:id="@+id/sync_anonymous_customer"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Transaction Method" />
+
+                    <ImageView
+                        android:id="@+id/sync_transaction_method"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Bank Account" />
+
+                    <ImageView
+                        android:id="@+id/sync_bank_account"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Mobile Account" />
+
+                    <ImageView
+                        android:id="@+id/sync_mobile_account"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Vendor List" />
+
+                    <ImageView
+                        android:id="@+id/sync_vendor"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Expense Category" />
+
+                    <ImageView
+                        android:id="@+id/sync_expense_category"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+                <LinearLayout
+                    android:id="@+id/medicine_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="Medicine" />
+
+                    <ImageView
+                        android:id="@+id/sync_dims"
+                        style="@android:style/Widget.ActionButton"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ic_sync_purple" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/grey" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/salesMode_text"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:text="Sales Mode"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/salesMode_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Sales Mode"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Spinner
+                    android:id="@+id/sales_mode_spinner"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.8"
+                    android:background="@drawable/spinner_primary_round_border">
+
+                </Spinner>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:visibility="gone"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@color/grey" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:visibility="gone"
+                android:text="Online/Offline Mode"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:visibility="gone"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Mode"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Switch
+                    android:id="@+id/online_offline_mode"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/grey"
+                    android:paddingLeft="@dimen/_35sdp"
+                    android:text="Offline">
+
+                </Switch>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@color/grey" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:text="Barcode"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Mode"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Switch
+                    android:id="@+id/barcode_mode"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/grey"
+                    android:paddingLeft="@dimen/_35sdp"
+                    android:text="Off">
+
+                </Switch>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:text="Discount Percent"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Mode"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Switch
+                    android:id="@+id/discount_print_mode"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/grey"
+                    android:paddingLeft="@dimen/_35sdp"
+                    android:text="Off">
+
+                </Switch>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:text="Auto Payment"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Mode"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Switch
+                    android:id="@+id/auto_payment_mode"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/grey"
+                    android:paddingLeft="@dimen/_35sdp"
+                    android:text="Off">
+
+                </Switch>
+
+
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:text="Previous Due"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Mode"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Switch
+                    android:id="@+id/previous_due_mode"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/grey"
+                    android:paddingLeft="@dimen/_35sdp"
+                    android:text="Off">
+
+                </Switch>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:text="Show Token"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Mode"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Switch
+                    android:id="@+id/show_token_mode"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1"
+                    android:background="@color/grey"
+                    android:paddingLeft="@dimen/_35sdp"
+                    android:text="Off">
+
+                </Switch>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@color/grey" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Barcode Camera"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Spinner
+                    android:id="@+id/camera_mode_spinner"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.8"
+                    android:background="@drawable/spinner_primary_round_border">
+
+                </Spinner>
+
+
+            </LinearLayout>
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_30sdp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_5sdp"
+                android:text="Printer Type"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_vertical">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.2"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:text="Select Printer Type"
+                    android:textSize="@dimen/_12sdp" />
+
+                <Spinner
+                    android:id="@+id/printer_type_spinner"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_weight="1.8"
+                    android:background="@drawable/spinner_primary_round_border">
+
+                </Spinner>
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@color/grey" />
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</FrameLayout>

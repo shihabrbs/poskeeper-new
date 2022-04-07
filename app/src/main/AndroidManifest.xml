@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.portal.terminalbd">
+
+    <uses-feature android:name="android.hardware.usb.host" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS"/>
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <application
+        android:name=".app.TerminalApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".activity.AddNewProductActivity"></activity>
+        <activity android:name=".activity.OTPActivity" />
+        <activity android:name=".activity.LoginWithOtpActivity" />
+        <activity android:name=".activity.UserProfileActivity" />
+        <activity android:name=".activity.VendorListDetailsActivity" />
+        <activity
+            android:name=".activity.NewExpenseActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activity.NewPurchaseActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".activity.CustomerPaymentActivity" />
+        <activity
+            android:name=".activity.SearchSalesActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".activity.MedicineSalesActivity" />
+        <activity android:name=".activity.AddTableActivity" />
+        <activity android:name=".activity.MultipleUserActivity" />
+        <activity android:name=".activity.VerifyOTPActivity" />
+        <activity android:name=".activity.ProductActivity" />
+        <activity android:name=".activity.CategoryActivity" />
+        <activity android:name=".activity.SignupActivity" />
+        <activity android:name=".activity.BarcodeScannerActivity" />
+        <activity android:name=".activity.ExpenseEditActivity" />
+        <activity android:name=".activity.ExpenseDetailsActivity" />
+        <activity android:name=".activity.PurchaseEditActivity" />
+        <activity android:name=".activity.PurchaseDetailsActivity" />
+        <activity android:name=".activity.SalesDetailsActivity" />
+        <activity android:name=".activity.SalesEditActivity" />
+        <activity android:name=".activity.DimsActivity" />
+        <activity
+            android:name=".activity.StockActivity"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".activity.ExpenseActivity" />
+        <activity android:name=".activity.PurchasePaymentActivity" />
+        <activity android:name=".activity.SalePaymentActivity">
+            <meta-data
+                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                android:resource="@xml/device_filter" />
+        </activity>
+        <activity android:name=".activity.PurchaseActivity" />
+        <activity android:name=".activity.DashboardActivity" />
+        <activity android:name=".activity.PrinterConnectActivity" />
+        <activity android:name=".activity.SalesActivity" />
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".activity.DeviceListActivity" />
+        <activity android:name=".activity.MultiLayout_SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.SetupActivity"
+            android:noHistory="true" />
+
+        <receiver android:name=".utils.OTPReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+      <!--  FirebaseMessagingService-->
+        <service
+            android:name=".firebaseFCM.FirebaseMessagingService"
+            android:permission="TODO"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/toolbar"
+        android:layout_margin="@dimen/_5sdp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose Account User*"/>
+
+        <Spinner
+            android:id="@+id/account_user_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:background="@drawable/spinner_border">
+        </Spinner>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_5sdp">
+
+            <TextView
+                android:id="@+id/cashPayment"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_weight="1"
+                android:text="CASH"
+                android:gravity="center"
+                android:textStyle="bold|italic"
+                android:textSize="@dimen/_14sdp"
+                android:textColor="@color/white"
+                android:background="@color/cash_background"
+                android:layout_marginRight="@dimen/_5sdp"/>
+
+            <TextView
+                android:id="@+id/bkashPayment"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_weight="1"
+                android:text="MOBILE"
+                android:gravity="center"
+                android:textStyle="bold|italic"
+                android:textSize="@dimen/_14sdp"
+                android:textColor="@color/white"
+                android:background="@color/bkash_background"
+                android:layout_marginRight="@dimen/_5sdp"/>
+
+            <TextView
+                android:id="@+id/visaPayment"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_weight="1"
+                android:text="BANK"
+                android:gravity="center"
+                android:textStyle="bold|italic"
+                android:textSize="@dimen/_14sdp"
+                android:textColor="@color/white"
+                android:background="@color/rocket_background"
+                android:layout_marginRight="@dimen/_5sdp"/>
+
+
+            <!--<ImageView-->
+            <!--android:id="@+id/bkashPayment"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="@dimen/_35sdp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:src="@drawable/bkash"-->
+            <!--android:background="@color/bkash_background"-->
+            <!--android:padding="@dimen/_5sdp"-->
+            <!--android:layout_marginRight="@dimen/_5sdp"/>-->
+
+            <!--<ImageView-->
+            <!--android:id="@+id/rocketPayment"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="@dimen/_35sdp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:padding="@dimen/_5sdp"-->
+            <!--android:src="@drawable/rocket"-->
+            <!--android:background="@color/rocket_background"-->
+            <!--android:layout_marginRight="@dimen/_5sdp"/>-->
+
+            <!--<ImageView-->
+            <!--android:id="@+id/visaPayment"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="@dimen/_35sdp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:padding="@dimen/_5sdp"-->
+            <!--android:src="@drawable/image"-->
+            <!--android:background="@color/visa_background"/>-->
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/mobile_payment_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/_5sdp"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose mobile account*"/>
+
+            <Spinner
+                android:id="@+id/payment_receive_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@drawable/spinner_border">
+
+
+            </Spinner>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bank_payment_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/_5sdp"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose a bank*"/>
+
+
+            <Spinner
+                android:id="@+id/payment_card_bank_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="@drawable/spinner_border">
+
+
+            </Spinner>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select expense category*"
+            android:layout_marginTop="@dimen/_10sdp"/>
+
+
+        <Spinner
+            android:id="@+id/expense_cat_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:background="@drawable/spinner_border">
+
+        </Spinner>
+
+        <com.portal.terminalbd.utils.PrefixEditText
+            android:id="@+id/payment_amount_et"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_30sdp"
+            android:paddingLeft="@dimen/_5sdp"
+            android:textSize="@dimen/_11sdp"
+            android:gravity="center_vertical"
+            android:tag="৳ "
+            android:layout_marginTop="@dimen/_5sdp"
+            android:hint="Enter Payment Amount"
+            android:inputType="number"
+            android:background="@drawable/edit_text_round_corner_border"/>
+
+
+        <EditText
+            android:id="@+id/remark_et"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:paddingLeft="@dimen/_5sdp"
+            android:textSize="@dimen/_11sdp"
+            android:gravity="center_vertical"
+            android:hint="Remark"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:background="@drawable/edit_text_round_corner_border"/>
+
+        <Button
+            android:id="@+id/payment_btn"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="wrap_content"
+            android:text="Payment"
+            android:drawableLeft="@drawable/ic_payment"
+            android:padding="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:textColor="@color/white"
+            android:background="@drawable/add_button_shape"
+            android:layout_gravity="center_horizontal"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

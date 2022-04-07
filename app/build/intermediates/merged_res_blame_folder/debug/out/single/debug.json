@@ -1,0 +1,1694 @@
+[
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_border_shape.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\round_border_shape.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_choose_usb_device.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_choose_usb_device.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg24.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bg24.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\cash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_terminalbdlogo.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\terminalbdlogo.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setup.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_setup.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\menu_stockpagemenu.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\menu\\stockpagemenu.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_sales.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_search_sales.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_android.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_phone_android.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_payment.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_payment.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_more_et_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_more_et_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item_desing.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\spinner_item_desing.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_sale_payment.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\toolbar_sale_payment.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checked.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\checked.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_reminderimg.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\reminderimg.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_stock_product.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_stock_product.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_close.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_baseline_close.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unchecked.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\unchecked.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_base_slide_right_in.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\base_slide_right_in.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shop.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\shop.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_btn_rounded_accent.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_rounded_accent.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dropdown_incon_black.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\dropdown_incon_black.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_help_ico.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_help_ico.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_commutity.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\commutity.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_purchase_history.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_purchase_history.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg25.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bg25.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_print_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_print_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stock_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\stock_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_med_icon.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\med_icon.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pos_print_btn_shape.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\pos_print_btn_shape.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_reset.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\btn_reset.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_call_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pre_purchasebtn_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\pre_purchasebtn_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_up.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_poskeeper_banner.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\poskeeper_banner.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_address.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\address.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_bg.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\default_bg.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_purchase_edit.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_purchase_edit.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_drop_down.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shopping_cart.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_expense.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_new_expense.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\font\\montserrat.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_slider_layout.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_dims_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_dims_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar_round_circle.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\avatar_round_circle.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\app_name_animation.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dropdown_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_dropdown_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_minus_red.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_minus_red.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medicine_sales.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_medicine_sales.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_d_radio_group_regular.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\d_radio_group_regular.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_simple_grow.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\simple_grow.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button_shape.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\add_button_shape.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_style_thumb.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\style_thumb.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_outline.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_person_outline.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_expense_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_expense_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_expense_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_expense_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_no_image.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\no_image.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_up.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_up.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate_refresh.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\rotate_refresh.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_up.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_discount_btn_shape.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\add_discount_btn_shape.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_customerimg.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\customerimg.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_open.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\eye_open.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_minus_red.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_minus_red.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stock.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_stock.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_table.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_table.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_btn_dark_blue.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_btn_dark_blue.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_purchase_details_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_purchase_details_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bengalerp_banner.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bengalerp_banner.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg23.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bg23.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_bg_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\edit_bg_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sales.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_sales.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_multiple_user.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_multiple_user.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_medicine_product.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_medicine_product.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_expense.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_expense.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_checkbox.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\custom_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dots.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_dots.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\pro_animation.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_minus_red.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_minus_red.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_vendor_list.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_vendor_list.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radius_bottom.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\radius_bottom.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_language_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\language_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_profile.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_multiple_user.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_multiple_user.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signup_round_btn_gray.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\signup_round_btn_gray.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_vendors.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_vendors.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_dropdown_small.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\icon_dropdown_small.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_minus_red.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_minus_red.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_bg_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\search_bg_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_close_black.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\menu_dashboard.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_spinner_primary_round_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\spinner_primary_round_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_gray_round_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\spinner_gray_round_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\logo_animation.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_print_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_print_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_selected.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\radio_flat_selected.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_left.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bengal_erp_app_logo.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bengal_erp_app_logo.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_token_no.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_token_no.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_customer_sale_list.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_customer_sale_list.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_expense_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_expense_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_customer.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_customer.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg22.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bg22.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_circle.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_circle.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_customer_list.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_customer_list.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_add_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_add_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toast.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corners_stock.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corners_stock.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\white_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sales_cart.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_sales_cart.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_help.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation_back.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\pro_animation_back.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smsimg.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\smsimg.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow___down_2.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow___down_2.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_grid_stock_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_grid_stock_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_round_corner_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\edit_text_round_corner_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_expense.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_expense.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\menu_sync_menu.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\menu\\sync_menu.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vendor_list_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_vendor_list_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_expense_history.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_expense_history.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_regular.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\radio_flat_regular.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_stock_items.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_stock_items.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_circle_shape_bg.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\circle_shape_bg.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_custom_track.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\custom_track.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_up.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_up.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_cash.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_cash.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_barcode_scan_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\barcode_scan_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_sales_history.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_sales_history.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_right.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_up_right.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pdfimg.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\pdfimg.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sales_cart_wtihout_pic.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_sales_cart_wtihout_pic.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_edittext.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_edittext.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bengle_erp_banner.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bengle_erp_banner.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_customer_invoice.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_customer_invoice.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dims_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\dims_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_border_shape_solid_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_border_shape_solid_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_search_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_btnsave.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_btnsave.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setup_login_bg.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\setup_login_bg.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_add_brand.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_add_brand.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_login.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\login.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_sale_details_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_sale_details_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_btn_shape_primary.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_shape_primary.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sales.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_sales.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sales_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_sales_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_stock_product_update.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_stock_product_update.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_layout.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_minus_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_minus_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_for_sales_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_for_sales_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_carticon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\carticon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_multi_layout__splash_screen.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_multi_layout__splash_screen.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_category_background.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\selected_category_background.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\menu_popupmenu.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\menu\\popupmenu.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_share_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_shrink_color.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\shrink_color.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_sync_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation_back.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\logo_animation_back.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_edit_text_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corner_edit_text_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_expense_cat.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_expense_cat.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phone.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\color_radio_flat_text_selector.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\color\\radio_flat_text_selector.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reset_system_btn.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\reset_system_btn.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_discount_cancel_btn_shape.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\add_discount_cancel_btn_shape.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pluseminusborder_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\pluseminusborder_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_bg_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\edittext_bg_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_d_radio_group_selected.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\d_radio_group_selected.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sales_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_sales_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_down.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vendor.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_vendor.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mobile_bank.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\mobile_bank.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_multiuser.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_multiuser.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_with_otp.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_login_with_otp.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vpn_key.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_vpn_key.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_list_stock_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_list_stock_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_remove_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_minus_red.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_minus_red.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_item_devider.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\drawer_item_devider.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_back_black.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_arrow_drop_down_circle.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-v24\\ic_arrow_drop_down_circle.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle_green.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_check_circle_green.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_borderstye.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\borderstye.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_barcode_scan_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\barcode_scan_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic__eye_black.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic__eye_black.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\bg_round.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_d_readio_group_selector.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\d_readio_group_selector.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toast_bg.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_purchase_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_purchase_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\menu_search.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_edittext_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\red_edittext_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_iconfcm.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\iconfcm.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_for_suggestion_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_for_suggestion_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_otpimg.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\otpimg.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_expense_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_expense_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_close_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_round_without_icon.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\spinner_round_without_icon.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user_black.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_user_black.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_shopping_cart_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phonelink_setup.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_phonelink_setup.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_print_disconnect.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_print_disconnect.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_users.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\users.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dropdownicontest.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\dropdownicontest.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_create_vendor.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_create_vendor.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_new_product.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_add_new_product.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_custom_thumb.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\custom_thumb.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corners_sales.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corners_sales.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_a_photo.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_add_a_photo.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dropdown_primary.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\ic_dropdown_primary.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_customer_invoice.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_customer_invoice.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_round_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\image_round_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bkash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\bkash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_base_slide_left_out.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\base_slide_left_out.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_table.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_add_table.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cash.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cash.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_eye.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\checkbox_eye.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_outline_24.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_border_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\red_border_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_middle.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\to_middle.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_white_round_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\spinner_white_round_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_btn.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corner_btn.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dialpad.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_dialpad.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\add_button_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_upward_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_arrow_upward_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_bg.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bank.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bank.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_upload_image.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_upload_image.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_dropdown.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\icon_dropdown.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_black.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_edit_black.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bengal_logo_round.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\bengal_logo_round.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_create_customer.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_create_customer.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_payment.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_customer_payment.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sales_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\sales_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_problem.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_sync_problem.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_spinner_bg_dropdown.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\spinner_bg_dropdown.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sidebar_bg.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\sidebar_bg.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_left.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_up_left.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_shape_primary.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\btn_shape_primary.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_border_shape_bold.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\round_border_shape_bold.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purchase_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\purchase_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sliderimage4.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-hdpi\\sliderimage4.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sales_cart_show.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_sales_cart_show.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sales_history.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_sales_history.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fab_background.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_expense_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\expense_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_prgress_dialog.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\prgress_dialog.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_categories.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_categories.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\dialog_btn_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_transparent_k.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\white_transparent_k.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_purchase.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_purchase.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sliderimage3.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-hdpi\\sliderimage3.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_stock_product_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_stock_product_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_minus_red.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_minus_red.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_expense_edit.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_expense_edit.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_borderstylered.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\borderstylered.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_customer.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_customer.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_print_black.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_print_black.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_middle.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\from_middle.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vendor.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_vendor.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o_t_p.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_o_t_p.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medicine_tab_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\medicine_tab_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_printer_connect.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_printer_connect.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_purchase_details.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_purchase_details.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_refresh_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_refresh_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sliderimage2.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-hdpi\\sliderimage2.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_purchase.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_purchase.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_terms.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_terms.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_help.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_help.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_add_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_camera_blue.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_camera_blue.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_purchase_payment.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_purchase_payment.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_background_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\circle_background_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_terminal_logo.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\terminal_logo.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_barcode_scan_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-mdpi\\barcode_scan_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dots_menu_border_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\dots_menu_border_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dims.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_dims.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_progress.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_progress.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radius_top.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\radius_top.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sale_payment.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_sale_payment.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vendorimg.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\vendorimg.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_verify_otp.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_verify_otp.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth_black.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_bluetooth_black.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_payment_list.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_payment_list.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corner_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_dashboard.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\nav_header_dashboard.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corners_dims.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corners_dims.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corners_expense.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corners_expense.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sales_edit.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_sales_edit.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vendor.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\vendor.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_default_out_anim.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\default_out_anim.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_remove_sharp.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_remove_sharp.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_sync.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_product.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\dialog_product.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_signup_bg.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\signup_bg.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sales_bottom_background.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\sales_bottom_background.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_circle_shape_grey.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\circle_shape_grey.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_print_connected.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_print_connected.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_payment_list.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_payment_list.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_barcode_scan_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxhdpi\\barcode_scan_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calendar.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation_back.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\app_name_animation_back.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_category.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_baseline_category.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stock.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_stock.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_expense_history.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\fragment_expense_history.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purchasebtn_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\purchasebtn_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_selector.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\radio_flat_selector.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_basic_dialog_item.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\basic_dialog_item.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_cart_stock.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_cart_stock.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bottom_corner_shape.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\bottom_corner_shape.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dropdown.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\ic_dropdown.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button_border.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\add_button_border.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_progress_anim.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\progress_anim.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_spinner.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_spinner.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_off.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\eye_off.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_shape.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\edit_text_shape.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_donot_move.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\donot_move.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\anim_grow_color.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\anim\\grow_color.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_format_list.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_format_list.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_red.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_delete_red.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_purchase.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\activity_new_purchase.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rocket.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\rocket.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dots_nav_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_dots_nav_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter_white.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_filter_white.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_purple.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\ic_sync_purple.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sliderimage1.jpg.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-hdpi\\sliderimage1.jpg"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_sharp.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_sharp.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_table.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\item_table.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corners_purchase.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\round_corners_purchase.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_back_style.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\dialog_btn_back_style.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_style_track.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\style_track.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_purchase_history.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\row_for_purchase_history.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_back.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signup_round_btn_orenge.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable\\signup_round_btn_orenge.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_document_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-xhdpi\\document_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_barcode_scan_icon.png.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\drawable-hdpi\\barcode_scan_icon.png"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\layout_iv_refresh.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\layout\\iv_refresh.xml"
+    },
+    {
+        "merged": "F:\\Office Work\\Test App\\Terminalbd\\app\\build\\intermediates\\res\\merged\\debug\\menu_print_status.xml.flat",
+        "source": "F:\\Office Work\\Test App\\Terminalbd\\app\\src\\main\\res\\menu\\print_status.xml"
+    }
+]
